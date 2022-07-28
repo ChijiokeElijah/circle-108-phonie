@@ -46,10 +46,16 @@ input.text{
 .network-icon{
     height: 50px;
     width: 50px;
-/*     display: none; */
-    margin: auto;
-/*     border-radius: 50%; */
-    
+  display: none; 
+    margin: auto; 
+}
 
+#small{
+  color:red;
+    display:none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    margin:0;
+    padding:0;
 }
 
